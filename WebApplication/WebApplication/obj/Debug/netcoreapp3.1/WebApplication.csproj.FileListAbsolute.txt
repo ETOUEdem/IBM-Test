@@ -17,3 +17,9 @@ C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\obj\
 C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.dll
 C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.pdb
 C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.genruntimeconfig.cache
+C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.csproj.CopyComplete
+C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\059501CA8\source\repos\IBM-Test\Apim\WebApplication\WebApplication\obj\Debug\netcoreapp3.1\WebApplication.MvcApplicationPartsAssemblyInfo.cs

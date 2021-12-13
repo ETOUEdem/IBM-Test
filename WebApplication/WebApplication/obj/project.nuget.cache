@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WbtosiXc9D+rBKQ+HaPs4hTFYhT3hN5GTmiVdfgbsVnwfEauSJ29UnPBMJsomyf2+KBzfaJb3zwFDI38iW/F4g==",
+  "dgSpecHash": "14Pdneafq015W177DT8avPaTWmDO/TvJW3zWSX7C8snItavy6J6MVCXT7dxVpVUzPwWw007tvWiLeSjk0HIYVw==",
   "success": true,
   "projectFilePath": "C:\\Users\\059501CA8\\source\\repos\\IBM-Test\\Apim\\WebApplication\\WebApplication\\WebApplication.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\059501CA8\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\059501CA8\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\059501CA8\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\059501CA8\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
   "logs": []
 }
